@@ -28,12 +28,16 @@ body {
 
 @media (max-widht:768px) {
 
-    #Section-1 { width: 90%; !important}
+    #Section-1 { width: 90%; !important margin-top: 100px; margin-bottom: 100px;}
 }
 
+#Section-1 { margin-top: 100px; margin-bottom: 100px;}
+
+#Trabajos { margin-top: 100px; margin-bottom: 100px;}
+
 #Más-Proyectos { 
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
 }
 
 #Redes-Sociales { 
