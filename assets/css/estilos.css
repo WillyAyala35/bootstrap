@@ -31,6 +31,12 @@ body {
     #Section-1 { width: 90%; !important}
 }
 
-#Section-1 { 
-    gap: 100px;
+#Más-Proyectos { 
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#Redes-Sociales { 
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
